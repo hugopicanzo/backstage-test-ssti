@@ -1,8 +1,7 @@
 site_name: SSTI
-plugins:
-  - techdocs-core
 theme:
   name: material
   custom_dir: my_theme
+
 
 
